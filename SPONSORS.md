@@ -1,5 +1,3 @@
-## 👋 Building Toolsets for the Next-Gen Knowledge Base
-
 Sa-lu-tations! I'm szktty.
 
 I've recently created and maintain the following OSS libraries for Dart/Flutter:
