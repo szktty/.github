@@ -11,11 +11,9 @@ I'm pouring my heart into [RinneGraph](https://github.com/szktty/rinne-graph-des
 
 I also release minimalist mobile apps the followings:
 
-TODO: links
-
-- When was the Curry? (カレーいつ食べた？) (iOS): 
-- Happy Melonpan (しあわせのメロンパン) (iOS): 
-- Hand-Wound Timer (手巻きタイマー) (iOS (English, Japanese)): An analog-style timer where you set the time by twirling your finger around the screen.
+- When was the Curry? (カレーいつ食べた？) ([iOS](https://apps.apple.com/jp/app/id6751624357)): 
+- Happy Melonpan (しあわせのメロンパン) ([iOS](https://apps.apple.com/jp/app/id6752323025)): 
+- Hand-Wound Timer (手巻きタイマー) (iOS ([English](https://apps.apple.com/us/app/id6758573288), [Japanese](https://apps.apple.com/jp/app/id6758573288))): An analog-style timer where you set the time by twirling your finger around the screen.
 
 And besides, sometimes I write articles and books with the knowledge gained from work in mainly [Zenn](https://zenn.dev/szktty). Books are the followings:
 
